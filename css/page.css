@@ -74,7 +74,7 @@ html, body { background:#f2f2f2; }
 	background:-moz-linear-gradient(top, #fff, #f2f2f2);
 }
 
-#main .divider-down { margin-left:-50px; margin-right:-50px; padding-left:50px; padding-right:50px; background:url(/images/dividerdown.jpg) no-repeat 0 0; background-size:980px 132px; }
+#main .divider-down { margin-left:-50px; margin-right:-50px; padding-left:50px; padding-right:50px; background:url(https://github.com/woodloes/woodloes.github.io/raw/master/images/dividerdown.jpg) no-repeat 0 0; background-size:980px 132px; }
 
 /* scrolltiles */
 #main .scrolltiles { width:840px; margin:-5px; text-align:center; }
